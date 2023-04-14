@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @NeoTryn
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning Vulkan
-
-<!---
-NeoTryn/NeoTryn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, my name is NeoTryn.
+I'm a young developer who likes game and web development.
+I'm currently learning OpenGL with GLFW and Glad and I hope to publish an own game one day.
